@@ -1,3 +1,3 @@
 <?php
-   echo "helo word testeteste..";
+   echo "helo word..";
 ?>
